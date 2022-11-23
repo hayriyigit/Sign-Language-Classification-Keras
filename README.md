@@ -1,1 +1,1 @@
-# Sign-Langugage-Classification-Keras
+# Sign-Language-Classification-Keras
